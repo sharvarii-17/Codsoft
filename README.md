@@ -1,4 +1,4 @@
-# codsoft
+# Codsoft
 Tasks for codsoft internship
 
 ##This repository contains three Python scripts that implement utility applications:
